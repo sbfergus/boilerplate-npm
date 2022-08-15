@@ -12,6 +12,7 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"description": "This is a project to learn the fundamentals of node.js"
+	"description": "This is a project to learn the fundamentals of node.js",
+	"keywords": ["freecodecamp", "testing", "MERN"]
 
 }
