@@ -13,6 +13,7 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"description": "This is a project to learn the fundamentals of node.js",
-	"keywords": ["freecodecamp", "testing", "MERN"]
+	"keywords": ["freecodecamp", "testing", "MERN"],
+	"license": "MIT"
 
 }
